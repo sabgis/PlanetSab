@@ -1,12 +1,15 @@
 
-
 ssssssssssss
 late
 
 addeda nother line on top sabscopy
+=======
+addeda blablablbaababab line on top sabscopy
+>>>>>>> bb6487ff7113be364943acb17a110f8e413b4d68
 
 addanother line only at the top cant do the bottom
 
 add another line 
 
 cold and dry, but everything is my favourite colour
+This is my line. 
